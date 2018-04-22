@@ -1,5 +1,10 @@
 # Docker Commands in the Tutorial
 
+## Part 1 Commands
+
+```shell
+```
+
 ## Part 2 Commands
 
 ```shell
